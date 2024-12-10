@@ -9,9 +9,7 @@ Si possono creare fino a 3 profili e a ogni profilo è collegato un file, per te
 
 Pagina che si presenta la prima volta che vi si accede:
 
-
-
-Pagina che si presenta la prima volta che vi si accede:
+\n
 
 ![immagine](https://github.com/user-attachments/assets/153ce8bf-7ef7-4dea-9d82-e0217161fab8)
 
